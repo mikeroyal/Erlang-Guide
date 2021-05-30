@@ -6,7 +6,14 @@
 
 #### A guide covering the Erlang programming language including the applications and tools that will make you a better and more efficient Erlang developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="ttps://user-images.githubusercontent.com/45159366/120120797-88b66300-c154-11eb-897a-57d069e3b2c9.png">
+  <br />
+</p>
+
+# Erlang Learning Resources
 
 [Erlang](https://www.erlang.org/) is a programming language used to build massively scalable soft real-time systems with requirements on high availability. Some of its uses are in telecoms, banking, e-commerce, computer telephony and instant messaging.
 
@@ -24,7 +31,7 @@
 
 [Erlang Programming Rules and Conventions](https://www.erlang.se/doc/programming_rules.shtml)
 
-## Tools
+# Erlang Tools, Libraries, and Frameworks
 
 [Erlang LS](https://erlang-ls.github.io/editors/vscode/) is a Visual Studio Code Extension for the Erlang Language Server.
 
@@ -51,3 +58,11 @@
 [Lager](https://github.com/erlang-lager/lager) is a logging framework for Erlang/OTP.
 
 [Hackney](https://github.com/benoitc/hackney) is a simple HTTP client in Erlang.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Erlang-Guide/pulls).
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
